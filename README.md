@@ -1,1 +1,3 @@
 # Credit-Risk-Modeling
+– This project deals with the credit worthiness of customers. I have used credit card clients of taiwan (publicly available credit data) to build credit scorecard for customers.  To classify good and bad customers (default and non default customers) and use this model to score new customers in future and to give ratings to each customer. The probability that a debtor will default is a key component in getting to a measure for credit risk.
+The credit score is a numeric expression measuring people’s creditworthiness. The banking usually utilizes it as a method to support the decision-making about credit applications.
